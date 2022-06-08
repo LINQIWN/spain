@@ -5,7 +5,7 @@ CHAT_ID = 2129111169 # which chat id to notify
 TIMEOUT = 90  # refresh page every 90s
 
 # =============== PERSONAL CONFIG FOR VISA ===============
-VISA_TYPE = 'Tourist'
+VISA_TYPE = 'Tourism'
 # YOU NEED TO CHANGE IT
 OPENED_PAGE = 'https://uk.blsspainvisa.com/visa4spain/book-date/X6SuqZKdjA' # your BLS appointment page link
 EMAIL = 'tsiven.lynn@yandex.ru' # BLS email
