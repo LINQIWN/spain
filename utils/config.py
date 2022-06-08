@@ -8,5 +8,5 @@ TIMEOUT = 90  # refresh page every 90s
 VISA_TYPE = 'Tourism'
 # YOU NEED TO CHANGE IT
 OPENED_PAGE = 'https://uk.blsspainvisa.com/visa4spain/book-date/QwertYU123' # your BLS appointment page link
-EMAIL = '123@456.com' # BLS email
+EMAIL = 'tsiven.lynn@yandex.ru' # BLS email
 PASSWORD = 'BLSpassword' # BLS password
