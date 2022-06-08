@@ -1,8 +1,8 @@
 # SYSTEM CONFIG (No need to change)
 # send a message to "@wongs_bot" before you use it, or the bot can not notify you.
 BOT_TOKEN = '5125027993:AAFDElZItiXqAsMjJFTKcuRfixreuVnjf5A'
-CHAT_ID = 2129111169 # which chat id to notify
-TIMEOUT = 90  # refresh page every 90s
+CHAT_ID = 5500232593 # which chat id to notify
+TIMEOUT = 60  # refresh page every 90s
 
 # =============== PERSONAL CONFIG FOR VISA ===============
 VISA_TYPE = 'Tourism'
